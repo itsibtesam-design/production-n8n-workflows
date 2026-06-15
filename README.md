@@ -44,6 +44,5 @@ Every workflow committed to this repository adheres to strict production-level s
 
 Looking to deploy these frameworks at scale, integrate complex enterprise APIs, or construct custom AI employee networks tailored to your specific business architecture? Let's connect.
 
-* **LinkedIn:** [Your Name / Profile Link]
-* **Portfolio/Website:** [Your Link]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** [[Profile Link](https://www.linkedin.com/in/ibtesam-mughal/)]
+* **Email:** [[My Email](itsibtesammughal@gmail.com)]
